@@ -64,3 +64,6 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+### What it Does?
+**User can Buy Ticket and Play the Lottery Game 
+**Winner will be chossen progamaticakky after a period 
